@@ -37,9 +37,9 @@ global.premium = ['6283879685072']
 global.packname = 'Stiff No Counter'
 global.author = ''
 global.sessionName = 'session'  //jangan diganti bro nanti error
-global.jumlha = '999'
-global.jumhal = '100000000000000'
-global.jumlah = '1000000000'
+global.jumlha = '404'
+global.jumhal = '404'
+global.jumlah = '404'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
@@ -58,7 +58,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 1000
+    free: 200
 }
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
@@ -66,8 +66,8 @@ global.mygit = 'https://github.com/STIFF404'
 global.myyt = 'https://youtube.com/channel/UCp3wAViqPkz7NN1fSENHSqA'
 global.myytv = 'https://youtube.com/shorts/GJ79IoNsptc?feature=share'
 global.mygc = "https://chat.whatsapp.com/B6ol9DdGElJHUogjtYB02D"
-global.botname = 'Loli Bot'
-global.akulaku = 'No Account'
+global.botname = 'Loli-Bot'
+global.akulaku = 'Loli-Bot'
 global.ytname = 'Stiff Totemo'
 
 
